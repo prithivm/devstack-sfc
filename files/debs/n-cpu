@@ -1,0 +1,8 @@
+cryptsetup
+genisoimage
+lvm2 # NOPRIME
+open-iscsi
+python-guestfs # NOPRIME
+qemu-utils
+sg3-utils
+sysfsutils

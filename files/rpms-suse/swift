@@ -1,0 +1,5 @@
+curl
+memcached
+sqlite3
+xfsprogs
+xinetd
